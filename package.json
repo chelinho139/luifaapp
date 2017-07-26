@@ -4,7 +4,7 @@
   "description": "This is ok",
   "main": "server/server.js",
   "scripts": {
-    "start": "server/server.js"
+    "start": "node server/index.js"
   },
   "repository": {},
   "author": "Luis Paez",
